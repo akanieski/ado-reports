@@ -10,7 +10,7 @@ Next up all you have to do is run the following commands from the `$\ProcessTool
 ```
 .\generateProjectSummaries.ps1 `
     -sourcePat "<PERSONAL ACCESS TOKEN>" `
-    -sourceOrg "https://dev.azure.com/ak-ups" `
+    -sourceOrg "https://dev.azure.com/orgname" `
     -outFile ".temp\projects.csv"
 ```
 
