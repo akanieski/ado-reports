@@ -5,7 +5,7 @@ Make sure you can run powershell scripts, open a powershell terminal "as adminis
 Set-ExecutionPolicy Bypass
 ```
 
-Next up all you have to do is run the following commands from the `$\ProcessTools` folder
+Next up all you have to do is run the following commands from the project's root folder
 
 ```
 .\generateProjectSummaries.ps1 `
